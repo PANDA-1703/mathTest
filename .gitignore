@@ -1,0 +1,8 @@
+.vscode
+bin
+.idea/
+~*
+*.svg
+*.out
+*.test
+*.svg
